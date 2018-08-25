@@ -1,0 +1,6 @@
+
+Todo:
+  ✔ Fix legend bug for importance plot @done(18-08-19 14:35)
+  ✔ Clean up util functions @done(18-08-19 15:08)
+  ✔ Migrate to python3 by print function @started(18-08-19 14:35) @done(18-08-19 14:40) @lasted(5m52s)
+  ✘ Seaborn plots @cancelled(18-08-19 14:40)
