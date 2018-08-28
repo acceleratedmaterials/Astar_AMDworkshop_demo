@@ -10,6 +10,7 @@
     * Windows
         * Launch `Anaconda Prompt`
         * Type `git clone https://github.com/acceleratedmaterials/AMDworkshop_demo.git` and press enter
+            * If the above command fails with error message `'git' is not recognized ...`, you need to      install `git`. One option is to use `conda` to install `git`: issue `conda install -c anaconda git` in the prompt. Alternatively, check [here](https://git-scm.com/download/win) on installation instructions for `git` on Windows)
         * Type `cd AMDworkshop_demo` and press enter
 
     * MacOS, Linux
