@@ -48,7 +48,7 @@
         * Create a conda environment:
 
             ```shell
-            conda create -n workshop pip python=3.5
+            conda create -n workshop anaconda pip python=3.5
             ```
             You can use any other name in place of `workshop` but be consistent hereafter
         * Activate the environment:
@@ -60,13 +60,13 @@
             ```shell
             pip install -r requirements.txt
             ```
-        * Note: you can deactivate the environment by issuing `deactivate`. But make sure to activate the environment again before running any demos, since the required packages are installed in this environment! For more information on conda environments, click [here](https://conda.io/docs/user-guide/tasks/manage-environments.html)
+        * Note: you can deactivate the environment by issuing `deactivate`. But make sure to activate the environment again before running any demos from the prompt, since the required packages are installed in this environment! For more information on conda environments, click [here](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 
     * **MacOS, Linux**. In your opened terminal, issue the following:
         * Create a conda environment:
 
             ```shell
-            conda create -n workshop pip python=3.5
+            conda create -n workshop anaconda pip python=3.5
             ```
             You can use any other name in place of `workshop` but be consistent hereafter
         * Activate the environment:
@@ -83,12 +83,12 @@
             pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.1-py3-none-any.whl
             ```
 
-        * Note: you can deactivate the environment by issuing `source deactivate`. But make sure to activate the environment again before running any demos, since the required packages are installed in this environment! For more information on conda environments, click [here](https://conda.io/docs/user-guide/tasks/manage-environments.html)
+        * Note: you can deactivate the environment by issuing `source deactivate`. But make sure to activate the environment again before running any demos from the terminal, since the required packages are installed in this environment! For more information on conda environments, click [here](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 
 
 ## Getting started
 
-1. Launch the `Anaconda Navigator` program
+1. Launch `Anaconda Navigator` and change environment to `workshop` by clicking on the drop down menu [Picture]
 
 2. **For demos using `Jupyter notebook`**
     * Launch `Jupyter notebook` ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/demo_pics/Jupyter.png)
