@@ -88,16 +88,16 @@
 
 ## Getting started
 
-1. Launch `Anaconda Navigator` and change environment to `workshop` by clicking on the drop down menu [Picture]
+1. Launch `Anaconda Navigator` and change environment to `workshop` by clicking on the drop down menu ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pic/anaconda_env.png)
 
 2. **For demos using `Jupyter notebook`**
-    * Launch `Jupyter notebook` ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/demo_pics/Jupyter.png)
-    * Navigate to the `AMDworkshop_demo` folder ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/demo_pics/2.png)
+    * Launch `Jupyter notebook` ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pic/Jupyter.png)
+    * Navigate to the `AMDworkshop_demo` folder ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pic/2.png)
     * Navigate to the corresponding subfolders and click on `<demo name>.ipynb` to begin interacting with the demo ([Guide](https://jupyter-notebook.readthedocs.io/en/stable/))
 
 3. **For demos using `Spyder`**
-    * Launch `Spyder` ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/demo_pics/Spyder.png)
-    * Navigate to the `AMDworkshop_demo` folder ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/demo_pics/4.png)
+    * Launch `Spyder` ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pic/Spyder.png)
+    * Navigate to the `AMDworkshop_demo` folder ![alt text](https://github.com/acceleratedmaterials/AMDworkshop_demo/blob/master/.pic/4.png)
     * Navigate to the corresponding subfolders Run the `<demo name>.py` files as required from `Spyder` IDE ([Guide](https://pythonhosted.org/spyder/))
 
 ## License
