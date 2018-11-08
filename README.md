@@ -1,4 +1,4 @@
-# AMD Workshop
+# Astar AMD Workshop
 
 ---
 
@@ -11,7 +11,7 @@
         * Launch `Anaconda Prompt`
         * Type
             ```shell
-            git clone https://github.com/acceleratedmaterials/AMDworkshop_demo.git
+            git clone https://github.com/acceleratedmaterials/Astar_AMDworkshop_demo.git
             ```
           and press enter (hereafter called "issue" command)
             * If the above command fails with error message `'git' is not recognized ...`, you need to      install `git`. One option is to use `conda` to install `git`: issue
@@ -28,7 +28,7 @@
         * Launch a `terminal`
         * Type
             ```shell
-            git clone https://github.com/acceleratedmaterials/AMDworkshop_demo.git
+            git clone https://github.com/acceleratedmaterials/Astar_AMDworkshop_demo.git
             ```
           and press enter (hereafter called "issue" command)
             * **MacOS:** If you are using Mac OS 10.13 (High Sierra), you may get the error message: `xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools)`. In this case, reinstall xcode by issuing
