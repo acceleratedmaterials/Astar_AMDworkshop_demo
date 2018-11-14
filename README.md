@@ -38,7 +38,7 @@
                 and clone the repository again
         * Change directory by issuing
             ```shell
-            cd AMDworkshop_demo
+            cd Astar AMDworkshop_demo
             ```
 
 3. Install additional required packages
